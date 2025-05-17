@@ -1,0 +1,4 @@
+{
+    "symbols": ["EURUSD", "GBPUSD", "XAUUSD"],
+    "risk_per_trade": 1.0
+}
